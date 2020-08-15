@@ -1,0 +1,24 @@
+{
+    "name": "collections",
+    "version": "1.0.0",
+    "description": "Good JS collections",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "typescript": "^3.9.7"
+    },
+    "scripts": {
+        "build": "tsc -p .",
+        "start": "node ./lib/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NavidKJalali/Collections.git"
+    },
+    "author": "Navid Jalali",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/NavidKJalali/Collections/issues"
+    },
+    "homepage": "https://github.com/NavidKJalali/Collections#readme"
+}

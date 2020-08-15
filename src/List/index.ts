@@ -1,4 +1,4 @@
-import deepCopy from './util/DeepCopy'
+import deepCopy from '../util/DeepCopy'
 
 const HeadOfNil = new Error("Head of Nil")
 const TailOfNil = new Error("Tail of Nil")
