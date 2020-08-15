@@ -1,1 +1,1 @@
-# I'm sick of javascript's stupid array
+# I'm sick of javascripts stupid array
